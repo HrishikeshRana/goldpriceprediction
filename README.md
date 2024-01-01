@@ -1,4 +1,4 @@
-# Goldpriceprediction
+# Gold_price_predictior
 Machine learning (ML) can be leveraged to analyze historical and real-time data, helping to predict and understand the complex patterns that influence gold prices. 
 
 
