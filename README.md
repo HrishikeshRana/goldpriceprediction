@@ -8,4 +8,5 @@ This machine learning project has been developed as a side endeavor due to the u
 
 # link:
 Kaggle dataset link: https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data
+
 Google collab link: https://colab.research.google.com/github/HrishikeshRana/goldpricepredictor/blob/main/Gold_price_pridictor.ipynb
